@@ -12,6 +12,6 @@ This script contains the following steps;
 * Blender2.8x (under 2.82 is tested)
 
 # Usage
-Paste this code to the "Scripting" tab and run the script.
-Running may take long.
+Paste this code to the "Scripting" tab and run the script.<br>
+Running may take long.<br>
 Can be 1-hour ~ especially when with collatz_limit: int ≥ 1,000.
